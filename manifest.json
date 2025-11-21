@@ -1,0 +1,15 @@
+{
+  "short_name": "眼鏡換算",
+  "name": "眼鏡度數換算小幫手",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22 fill=%22%230ea5e9%22><rect width=%2224%22 height=%2224%22 fill=%22white%22/><circle cx=%226%22 cy=%2212%22 r=%224%22 stroke=%22%230ea5e9%22 stroke-width=%222%22 fill=%22none%22/><circle cx=%2218%22 cy=%2212%22 r=%224%22 stroke=%22%230ea5e9%22 stroke-width=%222%22 fill=%22none%22/><line x1=%2210%22 y1=%2212%22 x2=%2214%22 y2=%2212%22 stroke=%22%230ea5e9%22 stroke-width=%222%22/></svg>",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#f8fafc"
+}
